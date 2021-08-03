@@ -1,4 +1,11 @@
-### Hi there 👋
+### Melikşah Türker
+- Data Scientist/ML Engineer with 3 years of experience in the field.
+- Pursuing MSc degree in Bogazici University CS program.
+- My interests are:
+  - Complex systems
+  - Deep Learning: Generative Models, Sequence Models
+  - NLP
+- Currently working for VNGRS AI team.
 
 <!--
 **meliksahturker/meliksahturker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
