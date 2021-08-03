@@ -7,6 +7,10 @@
   - NLP
 - Currently working for VNGRS AI team.
 
+- You can reach me via:
+  - LinkedIn: https://www.linkedin.com/in/meliksahturker/
+  - e-mail: turkermeliksah@hotmail.com
+
 <!--
 **meliksahturker/meliksahturker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
