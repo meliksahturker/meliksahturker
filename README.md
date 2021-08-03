@@ -2,7 +2,7 @@
 - Data Scientist/ML Engineer with 3 years of experience in the field.
 - Pursuing MSc degree in Bogazici University CS program.
 - My interests are:
-  - Complex systems
+  - Complex systems, complex networks
   - Deep Learning: Generative Models, Sequence Models
   - NLP
 - Currently working for VNGRS AI team.
