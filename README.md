@@ -1,5 +1,5 @@
 ### Melikşah Türker
-- Data Scientist/ML Engineer with 3 years of experience in the field.
+- Data Scientist/ML Engineer with 4 years of experience in the field.
 - Pursuing MSc degree in Bogazici University CS program.
 - My interests are:
   - Complex systems, Complex networks
