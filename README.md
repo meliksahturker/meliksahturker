@@ -1,10 +1,10 @@
 ### Melikşah Türker
-- ML Engineer/Researcher/Data Scientist
+- ML Engineer
 - Pursuing MSc degree in Bogazici University CS program.
 - My interests are:
   - Complex systems, Complex networks
   - Deep learning: Generative models, Sequence models, NLP
-- Currently working for VNGRS AI team.
+- Currently working for VNGRS AI team with focus on research projects.
 
 <!--
 - You can reach me via:
