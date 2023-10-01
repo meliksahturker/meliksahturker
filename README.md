@@ -2,7 +2,7 @@
 - ML Engineer
 - Pursuing PhD degree in Bogazici University CS program.
 - My interests are:
-  - Deep learning: Natural Language Processing, Sequence models, Generative Models
+  - Deep learning: Large Language Models, Natural Language Processing, Sequence models, Generative Models
   - Complex systems, Complex networks
 - Currently working for VNGRS AI team with focus on NLP projects.
 
